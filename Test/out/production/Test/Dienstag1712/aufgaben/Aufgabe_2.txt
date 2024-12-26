@@ -1,0 +1,8 @@
+Erstellen Sie eine Klasse namens "DirectoryHandling", die folgende Methoden enthält:
+
+1. Eine Methode mit dem Namen "createDirectory", die einen neuen Ordner an einem bestimmten Pfad erstellt.
+2. Eine Methode mit dem Namen "listFilesInDirectory", die alle Dateien in einem vorhandenen Ordner auflistet und zurückgibt.
+
+Verwenden Sie dabei sowohl File als auch Path und ihre zugehörigen Klassenmethoden wie mkdir() und list() aus der Klasse Files, um diese Aufgabe zu lösen.
+Schreiben Sie anschließend eine Main-Methode, um Ihre Methoden aufzurufen und testen Sie sie anhand von Beispielordnern, deren Pfade als Parameter übergeben werden können.
+
